@@ -9,7 +9,7 @@ generates a bar chart with the top 5 Youtube channels.
 ### Technologies
 
 1. Python 3
-	* bs4 / BeautifulSoup
-	* matplotlib
+  * bs4 / BeautifulSoup
+  * matplotlib
   * matplotlib.pyplot
   * numpy

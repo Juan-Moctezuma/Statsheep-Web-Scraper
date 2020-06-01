@@ -16,7 +16,7 @@ csv_file = 'Top-Channels-by-views-' + date + '.csv'
 p = inflect.engine()
 
 # Loop through Statsheep.com to find 'Top-Video-Views'
-for i in range(1, 2):
+for i in range(1, 11):
     text = requests.get(url + str(i)).text
     soup = BeautifulSoup(text, 'html.parser')
 

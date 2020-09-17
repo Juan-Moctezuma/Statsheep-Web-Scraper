@@ -8,7 +8,7 @@ this script generates a bar chart with the top 5 Youtube channels out of those
 1000 channels / YouTubers. The csv document and bar chart update whenever Statsheep does. 
 
 ### Directory Tree
-N/A (project consists of one .py file)
+N/A (project consists of one file: Statsheep_scraper.py)
 
 ### What are the outputs?
 1. CSV

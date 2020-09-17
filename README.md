@@ -11,8 +11,12 @@ this script generates a bar chart with the top 5 Youtube channels out of those
 N/A (project consists of one file: Statsheep_scraper.py)
 
 ### What are the outputs?
-1. CSV
-2. Chart
+1. CSV:
+   <img src="Image/CSV.png" width="50%">
+
+2. Chart: Top 5 Channels
+   <img src="Image/Chart.png" width="50%">
+
 
 ### Technologies
 

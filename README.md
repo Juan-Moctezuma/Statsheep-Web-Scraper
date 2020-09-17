@@ -5,12 +5,19 @@
 The purpose of this Python web scraper is to extract data from Statsheep.com, and generate a 
 csv file containing a list of the top 1000 most-viewed Youtube channels. In addition, 
 this script generates a bar chart with the top 5 Youtube channels out of those 
-1000 channels / YouTubers. The csv document and bar chart update whenever Statsheep does.  
+1000 channels / YouTubers. The csv document and bar chart update whenever Statsheep does. 
+
+### Directory Tree
+N/A (project consists of one .py file)
+
+### What are the outputs?
+1. CSV
+2. Chart
 
 ### Technologies
 
-1. Python 3
+1. Python 3 (packages):
    * bs4 / BeautifulSoup
-   * matplotlib
-   * matplotlib.pyplot
-   * numpy
+   * Matplotlib
+   * Matplotlib.pyplot
+   * Numpy
